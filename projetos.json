@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "nome": "Face Control",
+    "categoria": "Tecnologia assistiva",
+    "descricao": "Sistema de adaptação de cadeiras de rodas elétricas.",
+    "icone": "accessibility",
+    "objetivo": "Em desenvolvimento — conteúdo detalhado será publicado em breve.",
+    "tecnologias": [],
+    "imagem": ""
+  },
+  {
+    "id": "2",
+    "nome": "ANI",
+    "categoria": "Educação inclusiva",
+    "descricao": "Plataforma de adaptação de atividades para estudantes neurodivergentes.",
+    "icone": "brain",
+    "objetivo": "Em desenvolvimento — conteúdo detalhado será publicado em breve.",
+    "tecnologias": [],
+    "imagem": ""
+  },
+  {
+    "id": "3",
+    "nome": "OBR",
+    "categoria": "Robótica e visão computacional",
+    "descricao": "Robô que utiliza visão computacional para identificar adversidades em trajetos.",
+    "icone": "bot",
+    "objetivo": "Em desenvolvimento — conteúdo detalhado será publicado em breve.",
+    "tecnologias": [],
+    "imagem": ""
+  },
+  {
+    "id": "4",
+    "nome": "FREESIA",
+    "categoria": "Botânica e educação",
+    "descricao": "Herbário virtual com atividades lúdicas para aproximar jovens e adolescentes da botânica.",
+    "icone": "leaf",
+    "objetivo": "Em desenvolvimento — conteúdo detalhado será publicado em breve.",
+    "tecnologias": [],
+    "imagem": ""
+  },
+  {
+    "id": "5",
+    "nome": "GreenBox",
+    "categoria": "Sustentabilidade e comércio",
+    "descricao": "Aplicativo de comércio eletrônico que conecta agricultores familiares a restaurantes e supermercados.",
+    "icone": "sprout",
+    "objetivo": "Em desenvolvimento — conteúdo detalhado será publicado em breve.",
+    "tecnologias": [],
+    "imagem": ""
+  },
+  {
+    "id": "6",
+    "nome": "Jornada Científica",
+    "categoria": "Divulgação científica",
+    "descricao": "Ferramenta virtual para apresentar projetos, autores, orientadores e premiações.",
+    "icone": "flask",
+    "objetivo": "Em desenvolvimento — conteúdo detalhado será publicado em breve.",
+    "tecnologias": [],
+    "imagem": ""
+  },
+  {
+    "id": "7",
+    "nome": "Gamificação da Educação",
+    "categoria": "Realidade virtual",
+    "descricao": "Jogo em realidade virtual para apoiar o ensino nas escolas.",
+    "icone": "vr",
+    "objetivo": "Em desenvolvimento — conteúdo detalhado será publicado em breve.",
+    "tecnologias": [],
+    "imagem": ""
+  }
+]
